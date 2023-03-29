@@ -14,3 +14,6 @@ html {
   article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     display: block;
   }
+
+h1 {--dark: #020202;
+}
