@@ -23,6 +23,27 @@ h1 {--dark: #020202;
 
   <div class="::-webkit-textfield-decoration-container"
 
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  max-width: 1224px;
+  width: 90%;
+  margin: auto;
+  padding: 40px 0;
+}
+
+.title{
+  margin-bottom: 2rem;
+}
+
+.photo-gallery{
+  display:flex;
+  gap: 20px;
+}
+
 
 
         
